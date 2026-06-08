@@ -85,11 +85,13 @@ I build across the full stack with a focus on:
 
 <div align="center">
 
-![Shaardul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaardul-18&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaardul-18&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+![Shaardul's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaardul-18&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaardul-18&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=shaardul-18&theme=default&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaardul-18&theme=github-compact&hide_border=true)
 
 </div>
 
