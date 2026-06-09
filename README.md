@@ -71,7 +71,7 @@ I am a **Data Science & AI student** passionate about building intelligent syste
 
 ## Featured Projects
 
-> 🔧 *Projects pinned on my profile — check them out below!*
+> 🔧 *Projects pinned on my profile — check them out!*
 
 I build across the full stack with a focus on:
 
@@ -117,8 +117,6 @@ If you're working on something interesting in **AI, data engineering, or open so
 - 💼 Connect on: [LinkedIn](https://linkedin.com/in/shaardul-ghag)
 
 <div align="center">
-
-*"The best way to predict the future is to build it."*
 
 ![Profile views](https://komarev.com/ghpvc/?username=shaardul-18&style=flat-square&color=0A66C2)
 
