@@ -2,7 +2,7 @@
 
 # Shaardul Ghag
 
-**Data Science & AI Student · Full-Stack Developer · Open Source Contributor**
+**Data Science & AI Undergrad · Full-Stack Developer · Open Source Contributor**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaardul-ghag)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaardulghag.work@gmail.com)
@@ -18,7 +18,7 @@ I am a **Data Science & AI student** passionate about building intelligent syste
 
 - 🎓 Currently studying **Data Science & Artificial Intelligence**
 - 🔭 Actively contributing to **open source projects**
-- 🌱 Deepening expertise in **Machine Learning, Deep Learning, and MLOps**
+- 🌱 Deepening expertise in **Machine Learning and Deep Learning**
 - 💡 Interested in **NLP, computer vision, and scalable data pipelines**
 - 🧠 Experienced in **Prompt Engineering** with Claude & other LLMs
 - 🤝 Open to **collaborations** on impactful open source and AI projects
