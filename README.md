@@ -97,18 +97,6 @@ I build across the full stack with a focus on:
 
 ---
 
-## Open Source
-
-I believe in the power of community-driven software. I actively look for opportunities to:
-
-- Contribute bug fixes and new features to projects I use
-- Help improve documentation and developer experience
-- Collaborate with maintainers on issues aligned with my skills
-
-Feel free to open an issue or pull request on any of my repositories — contributions are always welcome.
-
----
-
 ## Let's Connect
 
 If you're working on something interesting in **AI, data engineering, or open source**, I'd love to hear about it.
