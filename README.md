@@ -4,10 +4,6 @@
 
 **Data Science & AI Undergrad · Full-Stack Developer · Open Source Contributor**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaardul-ghag)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaardulghag.work@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/shaardul-18?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/shaardul-18)
-
 </div>
 
 ---
@@ -70,8 +66,6 @@ I am a **Data Science & AI student** passionate about building intelligent syste
 ---
 
 ## Featured Projects
-
-> 🔧 *Projects pinned on my profile — check them out!*
 
 I build across the full stack with a focus on:
 
